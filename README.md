@@ -1,4 +1,4 @@
-# E-Commerce Website - Totality Corp challange
+# E-Commerce Website - Totality Corp challenge
 
 A Ecommerce Website made with React.js Framework.
 

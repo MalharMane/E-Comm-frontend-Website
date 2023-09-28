@@ -1,50 +1,13 @@
-# E-Commerce Website
+# E-Commerce Website - Totality Corp challange
 
 A Ecommerce Website made with React.js Framework.
 
 
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
-
 ## Features
 
-- Easy to integrate with Backend
-- Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
-
-Go to the project directory
-
-```bash
-  cd React_E-Commerce
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
-
+- Fully Responsive , can be ascessible through multiple devices.
+- You can add products in Cart
+- You can see Selected Products and Total cost calculation of products in cart.
 
 
 ## Tech Stack
@@ -54,14 +17,33 @@ Start the server
 * [Bootstrap](https://getbootstrap.com/)
 * [Fake Store API](https://fakestoreapi.com/)
 
+
+## Screenshots
+
+### Home Page 
+![Screenshot (46)](https://github.com/MalharMane/totalitycorp-frontend-challenge/assets/104439115/0016da8d-cecf-443a-8654-083da2f9b46b)
+
+
+### Items / Products 
+![Screenshot (47)](https://github.com/MalharMane/totalitycorp-frontend-challenge/assets/104439115/f1011de9-8e60-4b9d-9e6d-66c0bf13616d)
+
+
+### My Cart with Selected Items and Total Calculation
+![Screenshot (49)](https://github.com/MalharMane/totalitycorp-frontend-challenge/assets/104439115/43339d71-381b-43f4-8de2-6d45ae090758)
+
+### CheckOut and Billing Address
+![Screenshot (50)](https://github.com/MalharMane/totalitycorp-frontend-challenge/assets/104439115/4bb3866c-498f-488f-966a-93e2cd316b78)
+
+
+
 ## Contributing
 
 Contributions are always welcome!
 Just raise an issue, we will discuss it.
 
+## Demo
 
-## Feedback
+https://totalitycorp-ecommerce-website.netlify.app/
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
